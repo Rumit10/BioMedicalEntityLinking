@@ -1,0 +1,14 @@
+generates one of synonyms of the gold entity.
+- 278
+- 341(323,324,326,327)
+- 559(561,562,563,567,570,572)
+- 692
+- 720 (partially a synonym)
+
+generates out of vocab entity.
+- 268
+- 589 (predicted text is there in the context)
+
+547 -- generates lower case instead of upper case (Comparison should be case insensitive)
+
+701,704 -- predicts weirdly with "type" (Removing type might help) 

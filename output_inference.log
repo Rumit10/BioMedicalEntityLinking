@@ -1,0 +1,6 @@
+nohup: ignoring input
+/TIDF_80/tidf80-user/miniconda3/envs/vatsal-env-qlora/lib/python3.10/site-packages/huggingface_hub/file_download.py:1132: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+`low_cpu_mem_usage` was None, now set to True since model is quantized.
+Using cuda
+Processing :   0%|          | 0/1113 [00:00<?, ?it/s]Processing :   0%|          | 1/1113 [00:49<15:13:04, 49.27s/it]Processing :   0%|          | 2/1113 [01:37<15:05:28, 48.90s/it]

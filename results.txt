@@ -1,0 +1,20 @@
+Checkpoint: 3, Accuracy: 0.41002022017524153
+target count: 3205, synonym count: 445, total synonym count: 816
+
+Checkpoint: 38, Accuracy: 0.8421702988092563
+target count: 7264, synonym count: 206, total synonym count: 6270
+
+Checkpoint: 39, Accuracy: 0.8398112783644125
+target count: 7262, synonym count: 181, total synonym count: 6273
+
+Checkpoint: 40, Accuracy: 0.8443046506403056
+target count: 7278, synonym count: 205, total synonym count: 6359
+
+Checkpoint: 42, Accuracy: 0.8450909907885868
+target count: 7324, synonym count: 166, total synonym count: 6345
+
+Checkpoint: 46, Accuracy: 0.8444169849472029
+target count: 7315, synonym count: 162, total synonym count: 6403
+
+Checkpoint: 47, Accuracy: 0.8490226915299932
+target count: 7339, synonym count: 185, total synonym count: 6411
